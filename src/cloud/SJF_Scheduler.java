@@ -1,4 +1,4 @@
-package SJF;
+package cloud;
 
 
 import org.cloudbus.cloudsim.*;
