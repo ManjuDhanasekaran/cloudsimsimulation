@@ -1,4 +1,4 @@
-package utils;
+package cloud;
 
 public class Constants {
     public static final int NO_OF_TASKS = 30; // number of Cloudlets;
